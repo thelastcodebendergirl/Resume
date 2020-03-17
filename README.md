@@ -1,5 +1,5 @@
 ## Contact
-**E-mail** : [hdurmaz2016@gmail.com] (mailto:hdurmaz2016@gmail.com)
+**E-mail** : [hdurmaz2016@gmail.com] (hdurmaz2016@gmail.com)
 
 ## Summary
 
