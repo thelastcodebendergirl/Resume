@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Contact
+**E-mail** : hdurmaz2016@gmail.com
 
-You can use the [editor on GitHub](https://github.com/thelastcodebendergirl/information/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Summary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a 3rd year student at Ege University Computer Engineering. I worked as a coordinator and member in various student clubs. I attach importance to team projects and the ideas of my teammates. I am not addicted to technology. I can easily adapt to new platforms. It is important to participate in many technical camps and courses. I used Java, C, C #, Python, Postgresql in projects. I am learning network programming with Python and new languages. I am interested in network systems and hardware.I have an average of 3.64. I care about soft skills. I'm curious, I think everything has a reason, I like to question and research. I work on Network Systems, Machine Learning and Artificial Intelligence Solutions, Algorithms, I plan a career in these fields.
 
-### Markdown
+## Education
+- **University** : Ege University
+- **Faculty**    : Engineering Faculty 
+- **Department** : Computer Engineering 
+## Student Organization
+- IEEE EGE Student Branch Computer Society ,member
+- Ege Entrepreneurship Society ,member 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Foreign Language
+- English (English) ,Intermediate
+- Deutsch (German)  ,Elementary 
+- Türkçe (Turkish)  ,Native Language 
 
-```markdown
-Syntax highlighted code block
+## Course Information
+- Mustafa Akgül Özgür Yazılım Kampı Blockchain First Level
+- Mustafa Akgül Özgür Yazılım Kampı Gnu/Linux System Management First Level
+- Cloud Study Jam 
+- CyberEge'18
 
-# Header 1
-## Header 2
-### Header 3
+## Certification
+- What is Data Science ? by IBM on coursera
+- Internet Connection: How to Get Online? by Cisco on Coursera
 
-- Bulleted
-- List
+## Skill 
+- Pycharm  - Netbeans - Eclipse - Microsoft Visual Studio - VirtualBox - Gcc - Cisco Packet Tracer - Ubuntu - Debian Linux-PGP - Cryptology - Algorithms - Data Structures - Graphical User Interface (GUI) - Probability - Statistics - Linear Algebra-Numerical Analysis - Operation Systems - Logic Circuit Design - Digital Circuit Design - Database Management - OOP Priciples / Design Patterns - 8086 Assembly - Emu8086 - HTML - Java - C Programming Language - C# - Python - GNU/Linux -
+Mysql - Postgre Sql - Computer Networks -Bash
+## Projects 
+- Multi-threading ,Java ,Eclipse 
+- LinkKariyerMood Database ; Postgresql ,Pgadmin3
+- Bicycle Rental and Reservation System ; C# ,Posgtresql,Microsoft Visual Studio
+- Notepad ; Design Patterns ,Java ,Junit ,Eclipse 
+- Lexical Analyzer ; C ,CodeBlocks
+- HUFFMAN ENCODING ;Java ,Netbeans 
+- RESERVATION SOFTWARE AND RECOMMENDATION SYSTEM FOR HOTELS ;Java ,Netbeans ,Apriori and KNN Algorithms 
+- CLUSTERING USING K-MEANS ALGORITHM ; C# ,Microsoft Visual Studio
+- BIRTHDAY PARADOX EXPERIMENTS ; Java ,Netbeans 
+- DVD Evanter Application ;Java ,Netbeans,LinkedList
+- Text Editor ; Java ,Netbeans
+- Square Plotting Game ;Python ,Pycharm
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thelastcodebendergirl/information/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details please contact with me on mail .
