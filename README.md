@@ -32,6 +32,7 @@ I am a 3rd year student at Ege University Computer Engineering. I worked as a co
 - Pycharm  - Netbeans - Eclipse - Microsoft Visual Studio - VirtualBox - Gcc - Cisco Packet Tracer - Ubuntu - Debian Linux-PGP - Cryptology - Algorithms - Data Structures - Graphical User Interface (GUI) - Probability - Statistics - Linear Algebra-Numerical Analysis - Operation Systems - Logic Circuit Design - Digital Circuit Design - Database Management - OOP Priciples / Design Patterns - 8086 Assembly - Emu8086 - HTML - Java - C Programming Language - C# - Python - GNU/Linux -
 Mysql - Postgre Sql - Computer Networks -Bash -Machine Learning -AI Algorithms
 ## Projects 
+- Game Playing:Minimax Search Algorithm;Java
 - Predicting Heart Attack,Python,Sklearn,Logistic Regression Classification
 - Multi-threading ,Java ,Eclipse 
 - LinkKariyerMood Database ; Postgresql ,Pgadmin3
