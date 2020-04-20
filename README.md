@@ -3,7 +3,7 @@
 
 ## Summary
 
-I am a 3rd year student at Ege University Computer Engineering. I worked as a coordinator and member in various student clubs. I attach importance to team projects and the ideas of my teammates. I am not addicted to technology. I can easily adapt to new platforms. It is important to participate in many technical camps and courses. I used Java, C, C #, Python, Postgresql in projects. I am learning network programming with Python and new languages. I am interested in network systems and hardware.I have an average of 3.64. I care about soft skills. I'm curious, I think everything has a reason, I like to question and research. I work on Network Systems, Machine Learning and Artificial Intelligence Solutions, Algorithms, I plan a career in these fields.
+I am a 3rd year student at Ege University Computer Engineering. I worked as a coordinator and member in various student clubs. I attach importance to team projects and the ideas of my teammates. I am not addicted to technology. I can easily adapt to new platforms. It is important to participate in many technical camps and courses. I used Java, C, C #, Python, Postgresql in projects. I am learning network programming with Python and new languages. I am interested in network systems and hardware. I care about soft skills. I'm curious, I think everything has a reason, I like to question and research. I work on Network Systems, Machine Learning and Artificial Intelligence Solutions, Algorithms, I plan a career in these fields.
 
 ## Education
 - **University** : Ege University
