@@ -3,7 +3,7 @@
 
 ## Summary
 
-I am a 3rd year student at Ege University Computer Engineering. I worked as a coordinator and member in various student clubs. I attach importance to team projects and the ideas of my teammates. I am not addicted to technology. I can easily adapt to new platforms. It is important to participate in many technical camps and courses. I used Java, C, C #, Python, Postgresql in projects. I am learning network programming with Python and new languages. I am interested in network systems and hardware. I care about soft skills. I'm curious, I think everything has a reason, I like to question and research. I work on Network Systems, Machine Learning and Artificial Intelligence Solutions, Algorithms, I plan a career in these fields.
+I am a 3rd year student at Ege University Computer Engineering. I worked as a coordinator and member in various student clubs. I attach importance to team projects and the ideas of my teammates. I am not addicted to technology. I can easily adapt to new platforms. It is important to participate in many technical camps and courses. I used Java, C, C #, Python, Postgresql in projects.  I'm curious. I like to question and research. I work on Java,Spring and  Algorithms, I plan a career in these fields.
 
 ## Education
 - **University** : Ege University
@@ -12,8 +12,10 @@ I am a 3rd year student at Ege University Computer Engineering. I worked as a co
 ## Student Organization
 - IEEE EGE Student Branch Computer Society ,member
 - Ege Entrepreneurship Society ,member 
-
-## Foreign Language
+## Experience 
+- Arkas - Bimar IT Services - Software Engineering Intern - July 2020-August 2020
+- Aselsan - SST -Software Engineering Intern - August 2020-September 2020
+## Languages
 - English (English) ,Intermediate
 - Deutsch (German)  ,Elementary 
 - Türkçe (Turkish)  ,Native Language 
